@@ -20,16 +20,16 @@ Before you begin, ensure you have the following prerequisites installed on your 
 1. Clone the repository:
 
    ```bash
-   -git clone https://github.com/Sithsew/-books-library.git
+   git clone https://github.com/Sithsew/-books-library.git
 
 2. Navigate to server folder:
 
     ```bash
-   -cd server
+   cd server
 
 3. Copy .env.sample and rename as .env:
 
     ```bash
-   -npm install
-   -npm run dev
+   npm install
+   npm run dev
 
