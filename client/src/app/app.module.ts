@@ -9,9 +9,10 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
+import { BooksComponent } from './components/books/books.component';
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, BooksComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
